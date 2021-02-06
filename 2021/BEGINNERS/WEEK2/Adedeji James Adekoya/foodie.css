@@ -1,0 +1,78 @@
+body{
+    background-image: url(food.jpg);
+    
+    
+}
+.nav{
+    background-color: white; 
+    display: flex;
+    width: 1270px;
+    margin-right: 10px;
+}
+.header{
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.lists{
+    list-style: none;
+    display: flex;
+    
+}
+.login button{
+         height: 25px;
+         width: 100px;
+         border-radius: 20px;
+         color: white;
+         background-color: green;
+         border-color :  green;
+}
+input{
+    height: 20px;
+    width: 70px;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+
+.body_content div{
+    font-size: 70px;
+    text-align: center;
+    color: white;
+    margin-top: 180px;
+}
+.body_content01{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+} 
+
+.links button{
+    height: 50px;
+    width: 250px;
+    background-color: green;
+    margin-top: 30px;
+    border-radius: 25px;
+    color: white;
+    border-color :  green;
+}
+.footer{
+    text-align: end;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 210px;
+}
+.footer a{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.email button{
+    background-color: green;
+    width: 70px;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    border-color :  green;
+}
